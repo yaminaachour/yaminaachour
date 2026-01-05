@@ -1,7 +1,14 @@
 <div align="center">
-  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663227306145/ldRJwgCQKVNLzFwN.png" alt="Yamina Achour - Ingénieure en Automatisation des Tests" width="300"/>
+  <a href="https://github.com/yaminaachour">
+    <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663227306145/ldRJwgCQKVNLzFwN.png" 
+         alt="YAMINA ACHOUR - Automation Testing Engineer" 
+         width="300" 
+         style="border-radius: 20px; transition: transform .5s ease;" 
+         onmouseover="this.style.transform='scale(1.1 )'" 
+         onmouseout="this.style.transform='scale(1)'" />
+  </a>
   <h1>Hi there, I'm YAMINA ACHOUR 👋</h1>
-  <p>Welcome to my profile!</p>
+  <p><i>Automation Testing Engineer | Quality Assurance Specialist</i></p>
 </div>
 
 ---
@@ -35,4 +42,7 @@ I am an **Automation Testing Engineer** with a passion for ensuring software qua
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yaminaachour&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Yamina's GitHub Stats" />
+    
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaminaachour&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
