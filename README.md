@@ -33,7 +33,18 @@ I am an **Automation Testing Engineer** with a passion for ensuring software qua
 ### 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,eclipse,vscode,git,java,jenkins,mysql,js,postman,python,selenium,playwright" alt="Languages and Tools" />
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://www.eclipse.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://www.jenkins.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/postmanlabs/postman-docs/develop/assets/postman-logo-stacked.svg" alt="postman" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.selenium.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/></a>
+  <a href="https://playwright.dev/" target="_blank"><img src="https://user-images.githubusercontent.com/13041/131186156-9a878d80-6057-4e44-8205-611cc081d710.png" alt="playwright" width="40" height="40"/></a>
 </div>
 
 ---
@@ -41,8 +52,6 @@ I am an **Automation Testing Engineer** with a passion for ensuring software qua
 ### 📈 GitHub Stats
 
 <div align="center">
+  <p><i>Stats will appear here once you have more public activity!</i></p>
   <img src="https://github-readme-stats.vercel.app/api?username=yaminaachour&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Yamina's GitHub Stats" />
-    
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaminaachour&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
