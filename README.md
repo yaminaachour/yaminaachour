@@ -6,33 +6,33 @@
 
 ---
 
-### 👩‍💻 À propos de moi
+### 👩‍💻 About Me
 
-Je suis une **Ingénieure en Automatisation des Tests** passionnée par la garantie de la qualité logicielle grâce à une automatisation efficace et fiable. Spécialisée dans les frameworks **Selenium Java** et **Playwright JavaScript**, je conçois des solutions d'automatisation robustes et évolutives en suivant les meilleures pratiques de l'industrie.
-
----
-
-### 🎯 Mes Objectifs
-
-- 🔭 **Je travaille actuellement sur :** Des projets de tests automatisés
-- 🌱 **J'apprends actuellement :** Cypress
-- 👯 **Je cherche à collaborer sur :** Des projets de testing
-- 💬 **Posez-moi des questions sur :** **Selenium Webdriver, Cucumber, TestNG, POM design pattern, Junit, Playwright, Jenkins**
-- 📫 **Comment me joindre :** [yamina.achour95@gmail.com](mailto:yamina.achour95@gmail.com )
-- ⚡ **Fait amusant :** Je suis arrivée ici par accident
+I am an **Automation Testing Engineer** with a passion for ensuring software quality through efficient and reliable test automation. With expertise in **Selenium Java** and **Playwright JavaScript** frameworks, I specialize in building robust and scalable test automation solutions following industry best practices.
 
 ---
 
-### 🛠️ Langages et Outils
+### 🎯 My Focus
+
+- 🔭 **I’m currently working on:** Automated test projects
+- 🌱 **I’m currently learning:** Cypress
+- 👯 **I’m looking to collaborate on:** Testing projects
+- 💬 **Ask me about:** **Selenium Webdriver, Cucumber, TestNG, POM design pattern, Junit, Playwright, Jenkins**
+- 📫 **How to reach me:** [yamina.achour95@gmail.com](mailto:yamina.achour95@gmail.com)
+- ⚡ **Fun fact:** I'm here by accident
+
+---
+
+### 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,eclipse,vscode,git,java,jenkins,mysql,js,postman,python,selenium,playwright" alt="Langages et Outils" />
+  <img src="https://skillicons.dev/icons?i=docker,eclipse,vscode,git,java,jenkins,mysql,js,postman,python,selenium,playwright" alt="Languages and Tools" />
 </div>
 
 ---
 
-### 📈 Statistiques GitHub
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YaminaAchour&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Statistiques GitHub de Yamina" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YaminaAchour&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Yamina's GitHub Stats" />
 </div>
