@@ -1,7 +1,6 @@
 <div align="center">
-  <a href="https://github.com/yaminaachour">  
+  <a href="https://github.com/yaminaachour">
     <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663227306145/ldRJwgCQKVNLzFwN.png" 
-
          alt="YAMINA ACHOUR - Automation Testing Engineer" 
          width="300" 
          style="border-radius: 20px; transition: transform .5s ease;" 
@@ -45,7 +44,8 @@ I am an **Automation Testing Engineer** with a passion for ensuring software qua
   <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.selenium.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/></a>
-  <a href="https://playwright.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/playwright/playwright-icon.svg" alt="playwright" width="40" height="40"/></a>
+    <a href="https://playwright.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=playwright" alt="playwright" width="40" height="40"/></a>
+
 
 
 </div>
