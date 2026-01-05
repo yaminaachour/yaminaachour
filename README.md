@@ -1,11 +1,9 @@
 <div align="center">
   <a href="https://github.com/yaminaachour">
-    <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663227306145/ldRJwgCQKVNLzFwN.png" 
-         alt="YAMINA ACHOUR - Automation Testing Engineer" 
-         width="300" 
-         style="border-radius: 20px; transition: transform .5s ease;" 
-         onmouseover="this.style.transform='scale(1.1 )'" 
-         onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" 
+         alt="YAMINA ACHOUR - QA Automation" 
+         width="400" 
+         style="border-radius: 20px;" />
   </a>
   <h1>Hi there, I'm YAMINA ACHOUR 👋</h1>
   <p><i>Automation Testing Engineer | Quality Assurance Specialist</i></p>
