@@ -1,6 +1,7 @@
 <div align="center">
-  <a href="https://github.com/yaminaachour">
+  <a href="https://github.com/yaminaachour">  
     <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663227306145/ldRJwgCQKVNLzFwN.png" 
+
          alt="YAMINA ACHOUR - Automation Testing Engineer" 
          width="300" 
          style="border-radius: 20px; transition: transform .5s ease;" 
@@ -41,10 +42,12 @@ I am an **Automation Testing Engineer** with a passion for ensuring software qua
   <a href="https://www.jenkins.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/postmanlabs/postman-docs/develop/assets/postman-logo-stacked.svg" alt="postman" width="40" height="40"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.selenium.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/></a>
-  <a href="https://playwright.dev/" target="_blank"><img src="https://user-images.githubusercontent.com/13041/131186156-9a878d80-6057-4e44-8205-611cc081d710.png" alt="playwright" width="40" height="40"/></a>
+  <a href="https://playwright.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/playwright/playwright-icon.svg" alt="playwright" width="40" height="40"/></a>
+
+
 </div>
 
 ---
